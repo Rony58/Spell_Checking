@@ -32,3 +32,7 @@ A spell checking project in C++ involves creating a program that can identify an
 9. Integration and Output: Depending on the project requirements, the corrected text can be displayed on the program's interface or written to an output file.
 
 It's worth noting that the efficiency and accuracy of the spell checking process can be improved by employing techniques like caching, stemming, and incorporating advanced language models or machine learning algorithms. However, the above steps provide a general overview of how a spell checking project can be implemented in C++.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
