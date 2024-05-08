@@ -4,7 +4,7 @@ At first you can download this folder in my github account then your next work i
 extract this zip file, then you fine "project" folder .
 Relax you don't need anything write here just open visual code studio.
 
-##Project Details
+##Project Details..
 A spell checking project in C++ involves creating a program that can identify and suggest corrections for misspelled words in a given text. Here's an explanation of how such a project typically works:
 
 1. Building a Dictionary: The first step is to create or obtain a dictionary of correctly spelled words. This dictionary will serve as a reference for checking the spelling of words in the text. The dictionary can be a simple text file containing a list of words, with each word on a separate line.
